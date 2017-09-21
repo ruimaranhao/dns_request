@@ -1,13 +1,13 @@
 package com.ruimaranhao;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 import java.io.IOException;
 
 import static junit.framework.Assert.assertFalse;
 import static junit.framework.Assert.assertTrue;
 
-public class URLValidtorTest {
+public class URLValidatorTest {
 
     @Test
     public void validURL() throws IOException {
